@@ -1,0 +1,151 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+.header{
+	width: 1500px;
+	height: 100px;
+	background-color: aquamarine;
+	border-bottom: 5px solid indigo;
+}
+.header img{
+	float: left;
+}
+.header #volkswagen{
+	color: indigo;
+	font-weight: bold;
+	font-size: 70px;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+.header form{
+	float: left;
+	padding-top: 
+}
+.startpage{
+	width: 1500px;
+	height: 500px;
+	background-color: azure;
+}
+.startpage #title{
+	padding-top: 30px;
+	text-align: center;
+	font-family: Impact;
+	font-size: 50px;
+}
+.startpage #subscribe1{
+	float: left;
+	font-size:40px;
+	font-family: Arial Black;
+	padding-left: 100px;
+}
+.startpage #subscribe2{
+	float: left;
+	font-size:40px;
+	font-family: Arial Black;
+	padding-left: 230px;
+}
+.startpage #subscribe3{
+	float: left;
+	font-size:40px;
+	font-family: Arial Black;
+	padding-left: 270px;
+}
+.startpage #subscribe4{
+	float: left;
+	font-size:40px;
+	font-family: Arial Black;
+	padding-left: 200px;
+}
+.startpage #photo1{
+	width: 340px;
+	height: 220px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 15px;
+    float: left;	
+}
+.startpage #photo2{
+	width: 340px;
+	height: 220px;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 15px; 
+	float: left;
+}
+.startpage #photo3{
+	width: 340px;
+	height: 220px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 15px; 
+	float: left;
+}
+.startpage #photo4{
+	width: 340px;
+	height: 220px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 15px; 
+	float: left;
+}
+.footer{
+	width: 1500px;
+	height: 150px;
+	background-color: aqua;
+	border-top: 5px solid gray;
+}
+.footer #instawords{
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;	
+}
+.footer #instaphoto{
+	width: 35px;
+	height:35px;
+	margin-left: 25px;
+	margin-top: 25px;
+	float: left;
+}
+.footer #facebookwords{
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;	
+}
+.footer #facebookphoto{
+	width: 35px;
+	height:35px;
+	margin-left: 25px;
+	margin-top: 25px;
+	float: left;
+}
+.footer #vkontaktewords{
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;	
+}
+.footer #vkontaktephoto{
+	width: 35px;
+	height:35px;
+	margin-left: 25px;
+	margin-top: 25px;
+	float: left;
+}
+.footer #youtubewords{
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;	
+}
+.footer #youtubephoto{
+	width: 35px;
+	height:35px;
+	margin-left: 25px;
+	margin-top: 25px;
+	float: left;
+}
